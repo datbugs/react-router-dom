@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  background: darkgray;
+  justify-content: space-around;
+}
+.nav-links{
+  list-style: none;
+  display: flex;
+}
+.nav-links li{
+  margin-right: 15px;
+}
